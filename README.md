@@ -39,6 +39,6 @@ Unity 2022.3.24f1
 * 高江洲由希愛（デザイナー）
 
 ## ゲームスクリーンショット
-! [タイトル画面](./ScreenShot/Title.png)
-! [プレイ画面](./ScreenShot/Main.png)
-! [リザルト画面](./ScreenShot/Result.png)
+![タイトル画面](./ScreenShot/Title.png)
+![プレイ画面](./ScreenShot/Main.png)
+![リザルト画面](./ScreenShot/Result.png)
